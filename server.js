@@ -1,8 +1,7 @@
 const express = require("express");
 const morgan = require("morgan");
-const path = require("path");
 const mongoose = require("mongoose");
-
+require("dotenv").config();
 const app = express();
 const port = process.env.PORT || 8000;
 
@@ -10,13 +9,13 @@ const routes = require("./routes/");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-mongoose.connect(process.env.ATLAS_URI || "mongodb://localhost/my_unsplash", {
+mongoose.connect(process.env.ATLAS_URI, {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 });
 
 mongoose.connection.on("connected", () => {
-	console.log("Connected to Atlas!");
+	console.log("Mongoose is connected!!!!");
 });
 
 app.use(bodyParser.json());
