@@ -2,7 +2,7 @@
 	"name": "my-unsplash-master",
 	"version": "1.0.0",
 	"description": "<!-- Please update value in the {}  -->",
-	"main": "index.js",
+	"main": "server.js",
 	"scripts": {
 		"client": "cd client && npm run start",
 		"server": "nodemon server.js",
