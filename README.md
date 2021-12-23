@@ -39,7 +39,7 @@
 
 ![screenshot](https://alvindev-img-uploader.herokuapp.com/images/4f21a395-a5ff-4372-b415-6df7ec8a83c5-1640225725915.JPG)
 
-I Built my unsplash site by following challenge by devchallenges.io. You can look my site here [My Unsplash](https://alvindev-myunsplash.herokuapp.com/). From this challenge, I have learned about Mansory Layout, delete an image, and how to search an image by label. I think my solution is not optimal, so I hope you all can give me some feedback about my solution :)
+I Built my unsplash site by following challenge from devchallenges.io. You can look my site here [My Unsplash](https://alvindev-myunsplash.herokuapp.com/). From this challenge, I have learned about Mansory Layout, delete an image, and how to search an image by label. I think my solution is not optimal, so I hope you all can give me some feedback about my solution :)
 
 ### Built With
 
