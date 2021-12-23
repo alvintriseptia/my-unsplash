@@ -37,14 +37,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://alvindev-img-uploader.herokuapp.com/images/4f21a395-a5ff-4372-b415-6df7ec8a83c5-1640225725915.JPG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I Built my unsplash site by following challenge by devchallenges.io. You can look my site here [My Unsplash](https://alvindev-myunsplash.herokuapp.com/). From this challenge, I have learned about Mansory Layout, delete an image, and how to search an image by label. I think my solution is not optimal, so I hope you all can give me some feedback about my solution :)
 
 ### Built With
 
@@ -86,7 +81,6 @@ $ npm start
 
 - [Approaches for a CSS Masonry Layout](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/)
 - [Math.random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
